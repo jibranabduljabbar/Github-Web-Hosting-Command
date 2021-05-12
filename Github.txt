@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+Github Bash Here:
+
+Steps:
+
+1) git init
+2) git status
+3) git add -A
+4) git config --global user.name "Jibran"
+4) git config --global user.email "jibran.jabbar06@gmail.com"
+5) git commit -m "My Comment"
+6) git remote add origin https://github.com/jibranabduljabbar/learninggit.git
+7) git push -u origin master
+ 
+Github.com:
+
+Steps:
+
+1) Download Github In Your PC Website: (git-scm.com)
+2) SignUp account in To github account
+3) Create a repository
+
+Complete Github...!
+
